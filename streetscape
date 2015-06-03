@@ -1,0 +1,1043 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" class="ie"lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7"  class="ie"lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8"  class="ie"lang="en-US">
+<![endif]-->
+<!--[if IE 9]>
+<html id="ie9"  class="ie"lang="en-US">
+<![endif]-->
+<!--[if gt IE 9]>
+<html class="ie"lang="en-US">
+<![endif]-->
+
+<!-- This doesn't work but i prefer to leave it here... maybe in the future the MS will support it... i hope... -->
+<!--[if IE 10]>
+<html id="ie10"  class="ie"lang="en-US">
+<![endif]-->
+
+
+<!--[if !IE]>
+<html lang="en-US">
+<![endif]-->
+
+<!-- START HEAD -->
+<head>
+            <meta charset="UTF-8" />
+    
+                <!-- this line will appear only if the website is visited with an iPad -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" />
+                
+                
+        
+<title>Chattanooga Streetscape Improvements   | LDA Engineering</title>
+
+<!-- RESET STYLESHEET -->
+<link rel="stylesheet" type="text/css" media="all" href="http://www.ldaengineering.com/wp-content/themes/stendhal/css/reset.css" />
+<!-- BOOTSTRAP STYLESHEET -->
+<link rel="stylesheet" type="text/css" media="all" href="http://www.ldaengineering.com/wp-content/themes/stendhal/core/assets/css/bootstrap.css" />
+<!-- MAIN THEME STYLESHEET -->
+<link rel="stylesheet" type="text/css" media="all" href="http://www.ldaengineering.com/wp-content/themes/stendhal/style.css" />
+
+<!-- PINGBACK & WP STANDARDS -->
+<link rel="pingback" href="http://www.ldaengineering.com/xmlrpc.php" />
+
+
+<script language="javascript">
+	var yit_responsive_menu_type = "arrow";
+	var yit_responsive_menu_text = "NAVIGATE TO...";
+</script>
+
+<!-- [favicon] begin -->
+<link rel="shortcut icon" type="image/x-icon" href="http://www.ldaengineering.com/wp-content/uploads/2013/02/favicon1.ico" />
+<link rel="icon" type="image/x-icon" href="http://www.ldaengineering.com/wp-content/uploads/2013/02/favicon1.ico" />
+<!-- [favicon] end -->
+
+<!-- Touch icons more info: http://mathiasbynens.be/notes/touch-icons -->
+<!-- For iPad3 with retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.ldaengineering.com/wp-content/themes/stendhal/apple-touch-icon-144x.png" />
+<!-- For first- and second-generation iPad: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.ldaengineering.com/wp-content/themes/stendhal/apple-touch-icon-114x.png" />
+<!-- For first- and second-generation iPad: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.ldaengineering.com/wp-content/themes/stendhal/icons/apple-touch-icon-72x.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="http://www.ldaengineering.com/wp-content/themes/stendhal/apple-touch-icon-57x.png" /> 
+    <link rel="alternate" type="application/rss+xml" title="LDA Engineering &raquo; Feed" href="http://www.ldaengineering.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="LDA Engineering &raquo; Comments Feed" href="http://www.ldaengineering.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.ldaengineering.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://www.ldaengineering.com/wp-includes/css/dashicons.min.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.ldaengineering.com/wp-includes/js/thickbox/thickbox.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='usquare-css-css'  href='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/templates/sliders/usquare/css/frontend/usquare_style.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='customScroll-css-css'  href='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/templates/sliders/usquare/css/frontend/jquery.mCustomScrollbar.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='customfont1-css'  href='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/templates/sliders/usquare/fonts/ostrich%20sans/stylesheet.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='customfont2-css'  href='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/templates/sliders/usquare/fonts/PT%20sans/stylesheet.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='http://fonts.googleapis.com/css?family=Playfair+Display%7COpen+Sans+Condensed%3A300%7COpen+Sans%7CShadows+Into+Light%7CMuli%7CKameron%7CArbutus+Slab%7CAbel%7CDroid+Sans%7CRokkitt&#038;ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-settings-css'  href='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/templates/sliders/revolution-slider/rs-plugin/css/settings.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-captions-css'  href='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/templates/sliders/revolution-slider/rs-plugin/css/captions.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://www.ldaengineering.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='styles-minified-css'  href='http://www.ldaengineering.com/wp-content/themes/stendhal/cache/style.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cache-custom-css'  href='http://www.ldaengineering.com/wp-content/themes/stendhal/cache//custom.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css'  href='http://www.ldaengineering.com/wp-content/themes/stendhal/custom.css?ver=4.2.2' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-4455658-29']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/templates/sliders/usquare/js/frontend/jquery.easing.1.3.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/templates/sliders/usquare/js/frontend/jquery.usquare.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/templates/sliders/usquare/js/frontend/jquery.mousewheel.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/templates/sliders/usquare/js/frontend/jquery.mCustomScrollbar.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/templates/sliders/usquare/js/frontend/jquery-ui-1.9.1.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/assets/js/jquery.imagesLoaded.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/templates/sliders/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ldaengineering.com/xmlrpc.php?rsd" />
+<link rel='canonical' href='http://www.ldaengineering.com/portfolios/portfolio-home/' />
+<meta name="generator" content="Custom Login v3.2.3" />
+        <style type="text/css">
+            body { background-color: #ffffff; background-image: url('http://www.ldaengineering.com/wp-content/uploads/2013/02/gray-background-2.jpg'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }      
+        </style>
+                <style type="text/css">
+            .blog-big .meta, .blog-small .meta { background-color: #ffffff; }      
+        </style>
+        <script type="text/javascript">
+(function(url){
+if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+var wfscr = document.createElement('script');
+wfscr.type = 'text/javascript';
+wfscr.async = true;
+wfscr.src = url + '&r=' + Math.random();
+(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+})('//www.ldaengineering.com/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=CC9433C9A08C55495DF3BB1109C8A4CA');
+</script></head>
+<!-- END HEAD -->
+<!-- START BODY -->
+<body class="single single-portfolios postid-3597 no_js boxed">
+    
+    <!-- START BG SHADOW -->
+    <div class="bg-shadow">
+    
+                <!-- START WRAPPER -->
+        <div id="wrapper" class="container group">
+        	
+                        <!-- START HEADER -->
+            <div id="header" class="group margin-bottom">
+                
+<div class="group container">               
+	
+    <div class="row align-left" id="logo-headersidebar-container">            
+    	
+        <!-- START LOGO -->
+    	<div id="logo" class="span12 group">
+    	    <a id="logo-img" href="http://www.ldaengineering.com" title="LDA Engineering">
+    <img src="http://www.ldaengineering.com/wp-content/uploads/2013/02/lda-logo-21.png" title="LDA Engineering" alt="LDA Engineering" />
+</a>
+
+ 
+    	</div>
+    	<!-- END LOGO -->
+    		<!-- START HEADER SIDEBAR -->
+	<div id="header-sidebar" class="group">                                                     
+		<div id="text-image-2" class="widget-1 widget-first widget text-image"><div class="text-image" style="text-align:left"><img src="http://www.ldaengineering.com/wp-content/uploads/2012/12/header-phone.png" alt="" /></div>Toll-free: 877-754-8254</div><div id="text-5" class="widget-2 widget-last widget widget_text">			<div class="textwidget"><div class="socials-square-small facebook-small square">
+	<a href="https://www.facebook.com/LDAEngineering?fref=ts" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'https://www.facebook.com/LDAEngineering?fref=ts', 'facebook']);" class="socials-square-small facebook" original-title="Facebook">facebook</a>
+</div>
+
+<div class="socials-square-small twitter-small square">
+	<a href="https://twitter.com/LDAEngineering" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'https://twitter.com/LDAEngineering', 'twitter']);" class="socials-square-small twitter" original-title="Twitter">twitter</a>
+</div>
+
+<div class="socials-square-small linkedin-small square">
+	<a href="http://www.linkedin.com/company/1275218?trk=tyah" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.linkedin.com/company/1275218?trk=tyah', 'linkedin']);" class="socials-square-small linkedin" original-title="Linkedin">linkedin</a>
+</div>
+
+<div class="socials-square-small pinterest-small square">
+	<a href="http://www.pinterest.com/ldaengineering/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.pinterest.com/ldaengineering/', 'pinterest']);" class="socials-square-small pinterest" original-title="Pinterest">pinterest</a>
+</div>
+
+<div class="socials-square-small instagram-small square">
+	<a href="http://instagram.com/ldaengineering/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://instagram.com/ldaengineering/', 'instagram']);" class="socials-square-small instagram" original-title="Instagram">instagram</a>
+</div>
+</div>
+		</div>	</div> 
+           
+    </div>
+</div>       
+    	
+<div id="nav" class="light">
+    <div class="container">
+    	
+                        <ul id="menu-main-menu" class="level-1"><li id="menu-item-12" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="http://www.ldaengineering.com/">HOME</a></li>
+<li id="menu-item-1007" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="http://www.ldaengineering.com/our-firm/">OUR FIRM</a></li>
+<li id="menu-item-3753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="http://www.ldaengineering.com/our-projects/">OUR PROJECTS</a></li>
+<li id="menu-item-1789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="http://www.ldaengineering.com/our-team/">OUR TEAM</a></li>
+<li id="menu-item-1073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-children-5"><a href="http://www.ldaengineering.com/contact-us/">CONTACT</a>
+<ul class="sub-menu">
+	<li id="menu-item-1084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="http://www.ldaengineering.com/knoxville-office/">Knoxville Office</a></li>
+	<li id="menu-item-1086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="http://www.ldaengineering.com/chattanooga-office/">Chattanooga Office</a></li>
+	<li id="menu-item-1085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="http://www.ldaengineering.com/tri-cities-office/">Tri-Cities Office</a></li>
+	<li id="menu-item-3762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="http://www.ldaengineering.com/morristown-office/">Morristown Office</a></li>
+	<li id="menu-item-3792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="http://www.ldaengineering.com/nashville-office/">Nashville Office</a></li>
+</ul>
+</li>
+<li id="menu-item-3375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-children-0"><a href="http://www.ldaengineering.com/careers-at-lda-engineering/">CAREERS</a></li>
+<li id="menu-item-3637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-children-2"><a href="http://www.ldaengineering.com/media/">MEDIA</a>
+<ul class="sub-menu">
+	<li id="menu-item-1425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-children-0"><a href="http://www.ldaengineering.com/category/news/">NEWS</a></li>
+	<li id="menu-item-2527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-children-0"><a href="http://www.ldaengineering.com/category/blog/">BLOG</a></li>
+</ul>
+</li>
+<li id="menu-item-1344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-children-0"><a href="http://www.ldaengineering.com/wp-login.php">CLIENT LOGIN</a></li>
+</ul>        </div>
+</div>
+
+            </div>
+            <!-- END HEADER -->
+              
+<!-- START PRIMARY -->
+<div id="primary" class="sidebar-no">
+    <div class="container group">
+	    <div class="row">
+	        	        <!-- START CONTENT -->
+	        <div id="content-page" class="span12 content group">          
+	        
+				        
+	            <div class="clear"></div>
+	            <div class="posts">      
+	                
+	                <div id="post-" class="hentry-post group portfolio-post internal-post">
+	                	
+	                	                                             <div id="portfolio" class="portfolio-full-description portfolio-full-small">
+						     
+													<!-- START SMALL LAYOUT -->		
+                                <div class="work group row post-3597 portfolios type-portfolios status-publish hentry">
+															                <div class="work-thumbnail span6">
+						                    <div class="thumb-wrapper">
+    											  
+    						                            	                                                <div class="extra-images-slider">
+    	                                                    <ul class="slides">
+    	                                                            	                                                        <li>    	                                                        	
+																  	<div class="picture_overlay_empty picture_overlay">
+																  		<img width="574" height="340" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Chattanooga-Streetscapes-CHG404-7-574x340.jpg" class="attachment-thumb_portfolio_fulldesc" alt="Chattanooga Streetscapes CHG404-7" />
+	    	                                                        																	  																		    </div>
+
+
+    	                                                        </li>
+    	                                                            	                                                        <li>    	                                                        	
+																  	<div class="picture_overlay_empty picture_overlay">
+																  		<img width="574" height="340" src="http://www.ldaengineering.com/wp-content/uploads/2015/03/Chattanooga-Streetscapes-CHG404-3-574x340.jpg" class="attachment-thumb_portfolio_fulldesc" alt="Chattanooga Streetscapes CHG404-3" />
+	    	                                                        																	  																		    </div>
+
+
+    	                                                        </li>
+    	                                                            	                                                        <li>    	                                                        	
+																  	<div class="picture_overlay_empty picture_overlay">
+																  		<img width="574" height="340" src="http://www.ldaengineering.com/wp-content/uploads/2015/03/Chattanooga-Streetscapes-CHG404-1-574x340.jpg" class="attachment-thumb_portfolio_fulldesc" alt="Chattanooga Streetscapes CHG404-1" />
+	    	                                                        																	  																		    </div>
+
+
+    	                                                        </li>
+    	                                                            	                                                    </ul>
+    	                                                </div>
+    	                                                <script type="text/javascript">
+    	                                                    jQuery(document).ready(function($){
+    	                                                        $('.extra-images-slider').flexslider({
+                                                                    controlNav: false
+                                                                });    
+    	                                                    });
+    	                                                </script>
+    	                                                	                                            
+													<script>
+													jQuery(document).ready(function($){
+														jQuery(".work-thumbnail .overlay a.lightbox_fulldesc").colorbox({
+															transition:'elastic',
+															rel:'lightbox_fulldesc',
+															fixed:true,
+															maxWidth: '80%',
+															maxHeight: '80%',
+															opacity : 0.7
+														});
+													});
+													</script>
+    						                        						                </div>
+						                </div>
+																		
+						            <div class="work-description span6">
+                                        <h3>Chattanooga Streetscape Improvements</h3>
+						                <p><b>
+<i class="icon-map-marker" style="color:#e17c00;font-size:22px;width:22px;height:22px"></i> LOCATION: </b>Chattanooga, Tennessee</p>
+<p><b><b>
+<i class="icon-calendar" style="color:#e17c00;font-size:22px;width:22px;height:22px"></i> </b>DATES: </b>2004-2006</p>
+<p><b><b>
+<i class="icon-bar-chart" style="color:#e17c00;font-size:22px;width:22px;height:22px"></i> </b> COST: </b>$713,000</p>
+<p><b><b>
+<i class="icon-star" style="color:#e17c00;font-size:22px;width:22px;height:22px"></i>  </b>PROJECT HIGHLIGHTS:</b></p>
+<ul>
+<li>Streetscape Improvements</li>
+<li>Wider Sidewalks</li>
+<li>Intersection Relocation</li>
+<li>Enhanced Pedestrian Access</li>
+</ul>
+<p>LDA was awarded a contract to provide professional engineering services to the City of Chattanooga to design an intersection relocation and streetscape improvements at two intersections near downtown. The intersections are located on the north side of the Tennessee River adjacent to Coolidge Park. The proposed streetscapes included wider sidewalks with street trees, landscaping, and pedestrian level lighting to enhance pedestrian access to the park. The design also includes textured concrete pavement in each intersection with new mast arm traffic signal poles, storm drainage, irrigation, new curb and gutter, and realignment of an existing intersection.<br />
+Services provided by LDA included meeting with stakeholders such as the Public Works Administrator, the City Engineer, and representatives from the Engineering Department, Traffic Operations Department, Tennessee Department of Transportation, River City Corporation, and the City Design Center. LDA met individually with the River City Corporation, which is the non-profit organization responsible for the Coolidge Park expansion. This meeting was conducted to discuss the scope of the streetscape and park improvements and to develop a seamless tie-in between the two projects. In addition, LDA discussed the streetscape project with representatives of the Tennessee Department of Transportation and their design consultant to coordinate the streetscape design with an adjacent bridge rehabilitation project.<br />
+LDA also provided construction administration services to the City during construction of the intersection relocation, and the construction was performed in two phases. LDA assisted the City by providing construction layout assistance to aid City forces in construction of the first phase.</p>
+<a href="http://www.ldaengineering.com/projects/"  class="btn   btn-beetle-bus-goes-jamba-juice-4 "><i class="icon-chevron-left" style="font-size: 12px;"></i> Back to Projects</a>
+						
+						                						            </div>
+						            <div class="clear"></div>
+								</div>
+							<!-- END SMALL LAYOUT -->	
+								
+						<div class="clear"></div>
+												<h3>Other Projects</h3>
+						<div class="portfolio-full-description-related-projects row">
+																																													<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Edwards-Air-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Edwards Air" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="165" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/saudi-map-258x165.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="saudi map" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/CHG310-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="CHG310" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Pedestrian-Bridge-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Pedestrian Bridge" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Another-Good-Dalen-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Dalen Products" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project_last related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Kingsport-Aerial-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Kingsport Aerial" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/northeast-knox-ud-tower-1-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="northeast-knox-ud-tower-1" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Greenway-Booster-Station-006-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Greenway" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/08/West-End-Drill-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="West End Drill" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/amsha-4-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="amsha-4" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/morristown-stormwater-5-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="morristown-stormwater-5" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project_last related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/Oak-Ridge-Pump-Station-Locations-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Oak Ridge Pump Station Locations" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/ETPC7-project-gallery1-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="ETPC7 project gallery" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/Debi-Circle-Flooding-formatted-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Debi Circle Flooding formatted" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/Kingsport-formatted-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Kingsport formatted" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/Fall-creek-Formatted-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Fall creek Formatted" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/Oak-Ridge-GIS-formatted-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Oak Ridge GIS formatted" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project_last related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/Spring-Creek-FORMATTED-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Spring Creek FORMATTED" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/07/Carriger-St1-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Carriger St1" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/Emory-Valley-Formatted-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Emory Valley Formatted" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/08/Possum-Creek-Int-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Possum Creek Int" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/07/Morristown-GIS-formatted-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Morristown GIS formatted" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/NEK-formatted-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="NEK formatted" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project_last related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/Morristown-pump-station-improvements-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Morristown pump station improvements" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/West-Knox-1-formatted-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="West Knox 1 formatted" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/SR-36-formatted-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="SR 36 formatted" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/JC1-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="JC" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/08/ALT-formatted-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="ALT formatted" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/08/Liberty-Bell-CADD-formatted-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Liberty Bell CADD formatted" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project_last related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/07/oost-creek-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="oost creek" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/mrc-wwtp-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="mrc wwtp" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/Rarity-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Rarity Ridge" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/100_4520-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="100_4520" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/09/Pump-Station-Rehab-Kingsport1-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Pump Station Rehab Kingsport" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/01/Huntsville-final2-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Huntsville" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project_last related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/Meadow-Park1-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Meadow Park1" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/citico4-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="citico4" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/downtown-lcub3-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="downtown lcub3" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/Tree-Streets-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Tree Streets" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/renaissance-park-5-258x170.png" class="attachment-thumb_portfolio_fulldesc_related" alt="renaissance park 5" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2013/03/Sweetwater-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Sweetwater" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project_last related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Ellistown-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Ellistown" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Morristown-5-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Morristown 5" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/COR-Prog-Mgmt-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="COR Prog Mgmt" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/IMG_0015-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="IMG_0015" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/LMU-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="LMU" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Warner-Park-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Warner Park" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project_last related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Tn-School-for-the-Deaf1-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Tn School for the Deaf1" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/JC-drainage-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="JC drainage" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Wetlands-Consulting-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Wetlands Consulting" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Alcoa-Duck-Pond-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Alcoa Duck Pond" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Vantage-View-2-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Vantage View 2" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Howell-Road-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Howell Road" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project_last related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/North-Fair-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="North Fair" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Current-Ziegler-Road2-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Current Ziegler Road2" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/10/Dovetail-water-storage3-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="KODAK Digital Still Camera" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/LCUB-HWY-321-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="LCUB HWY 321" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Pine-Top-Tank-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Pine Top Tank" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Pictures-KUB--258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Pictures KUB" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project_last related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Morristown-Water-Treatment-Plant-ROY-S-OAKES-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Morristown Water Treatment Plant ROY S OAKES" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Briarwood-1-258x170.png" class="attachment-thumb_portfolio_fulldesc_related" alt="Briarwood 1" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Brush-Creek-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Brush Creek" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/DSC01191-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="DSC01191" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/KUB-Wooddale-Pump-Station3-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="KUB - Wooddale Pump Station3" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Gatlinburg-River-Road-1-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Gatlinburg River Road 1" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project_last related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/IMG_0604-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="IMG_0604" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/Water-Meter-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="Water Meter" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/KUB-Basin-39C-258x170.bmp" class="attachment-thumb_portfolio_fulldesc_related" alt="KUB Basin 39C" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+																															<div class="related_project span3">
+								    
+								    								    
+								    <div class="related_img">
+									  	<div class="picture_overlay">
+									  		<img width="258" height="170" src="http://www.ldaengineering.com/wp-content/uploads/2014/04/KUB-Force-MainAssessment-258x170.jpg" class="attachment-thumb_portfolio_fulldesc_related" alt="KUB Force MainAssessment" />									  	
+									  											    </div>  
+                                    </div>
+								</div>
+								
+						</div>
+						
+						
+												</div>						
+						<div class="clear"></div>
+	                </div>      
+	            
+	            </div>
+	        	        </div>
+	        <!-- END CONTENT -->
+	        	        
+	        	        	        	    </div>
+    </div>
+</div>
+<!-- END PRIMARY -->         
+                         
+    
+            
+<!-- START COPYRIGHT -->
+<div id="copyright">
+    <div class="container">
+        <div class="row">
+                <div class="left span6">
+        <p>Copyright 2015 - <a href="http://www.ldaengineering.com">Lamar Dunn & Associates</a></p>
+    </div>
+        <div class="right span6">
+        <div class="socials-default-small twitter-small default">
+<a href="https://twitter.com/LDAEngineering" class="socials-default-small default twitter" >twitter</a>
+</div>
+<div class="socials-default-small linkedin-small default">
+<a href="http://www.linkedin.com/company/1275218?trk=tyah" class="socials-default-small default linkedin" >linkedin</a>
+</div>
+<div class="socials-default-small facebook-small default">
+<a href="https://www.facebook.com/LDAEngineering?fref=ts" class="socials-default-small default facebook" >facebook</a>
+</div>
+</p>
+    </div>
+            </div>
+    </div>
+</div>
+<!-- END COPYRIGHT -->
+            
+            <div class="wrapper-border"></div>
+            
+        </div>
+        <!-- END WRAPPER -->
+                
+        
+    </div>
+    <!-- END BG SHADOW -->
+    
+    <script type='text/javascript'></script><script type='text/javascript'></script><link rel='stylesheet' id='custom-button-beetle-bus-goes-jamba-juice-4-css-css'  href='http://www.ldaengineering.com/wp-content/themes/stendhal/core/assets/css/buttons/beetle-bus-goes-jamba-juice-4.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.ldaengineering.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-includes/js/underscore.min.js?ver=1.6.0'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-includes/js/shortcode.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-admin/js/media-upload.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/assets/js/jquery.colorbox-min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/assets/js/jquery.easing.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/assets/js/jquery.flexslider-min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/core/assets/js/yit/yit_browser.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/assets/js/yit/jquery.yit_classic_menu.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/assets/js/jquery.sticky.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var l10n_handler = {"map_close":"[x] Close","map_open":"[x] Open"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/js/jquery.custom.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-includes/js/comment-reply.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/core/assets/js/responsive.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/js/responsive.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/core/assets/js/jquery.placeholder.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/core/assets/js/twitter-text.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/core/assets/js/jquery.tipsy.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/core/assets/js/jquery.cycle.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/core/assets/js/shortcodes.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/assets/js/shortcodes.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/theme/assets/js/widgets.js?ver=4.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var contactForm = {"wait":"wait..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ldaengineering.com/wp-content/themes/stendhal/core/assets/js/contact.js?ver=1.0'></script>
+ 
+</body>
+<!-- END BODY -->
+</html>
